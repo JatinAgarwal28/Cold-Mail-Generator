@@ -24,7 +24,7 @@ A Streamlit-based web application designed to help users generate personalized c
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/cold-mail-generator.git
+    git clone https://github.com/JatinAgarwal28/cold-mail-generator.git
     cd cold-mail-generator
     ```
 
@@ -78,6 +78,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Replace `yourusername`, `your_groq_api_key`, and `your-email@example.com` with your actual GitHub username, API key, and email address. This README provides a comprehensive overview of the project, installation steps, usage instructions, and contact information.
