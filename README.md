@@ -1,7 +1,3 @@
-Sure! Below is a professional README template for your Cold Mail Generator project. This README includes sections typically found in a professional README file, such as project description, features, installation instructions, usage, and technologies used.
-
----
-
 # 📧 Cold Mail Generator
 
 A Streamlit-based web application designed to help users generate personalized cold emails for job applications. By uploading a CV and providing a job listing URL, the application extracts relevant job details, queries the user's portfolio for relevant links, and generates a tailored email using a language model.
